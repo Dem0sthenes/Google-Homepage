@@ -1,1 +1,1 @@
-This project is part of the curriculum for TheOdinProject, recreating the basic Google homepage using basic CSS and HTMl
+This project is part of the curriculum for TheOdinProject, recreating the basic Google homepage using basic CSS and HTML.
